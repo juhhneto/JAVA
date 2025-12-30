@@ -23,7 +23,8 @@ public class Main {
                 -classes e métodos abstratos(absttração)
                 -coleções
                 -pacotes
+       System.out.println("Hello World");
+
          */
-        System.out.println("Hello World");
     }
 }
